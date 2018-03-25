@@ -1,0 +1,16 @@
+{
+  "name": "firebase-web-gst",
+  "version": "1.0.0",
+  "description": "firebase web getting started tutorial",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "web",
+    "gst"
+  ],
+  "author": "pradeep1991singh",
+  "license": "ISC"
+}
